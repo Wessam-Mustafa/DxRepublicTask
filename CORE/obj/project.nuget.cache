@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SwuxbwsoCWLE/LdP+i2/BBlFEpbKNdz11Huv6VRXbrxvU3IHhEqDU03shV3vU7i/kmjKwDZpjJZDumqzHE6NTQ==",
+  "success": true,
+  "projectFilePath": "D:\\DX\\DxRepublic\\CORE\\CORE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wshab\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\wshab\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

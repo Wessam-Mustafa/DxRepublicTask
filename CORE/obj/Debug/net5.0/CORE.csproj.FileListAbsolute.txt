@@ -1,0 +1,12 @@
+D:\DX\DxRepublic\CORE\obj\Debug\net5.0\CORE.csproj.AssemblyReference.cache
+D:\DX\DxRepublic\CORE\obj\Debug\net5.0\CORE.GeneratedMSBuildEditorConfig.editorconfig
+D:\DX\DxRepublic\CORE\obj\Debug\net5.0\CORE.AssemblyInfoInputs.cache
+D:\DX\DxRepublic\CORE\obj\Debug\net5.0\CORE.AssemblyInfo.cs
+D:\DX\DxRepublic\CORE\obj\Debug\net5.0\CORE.csproj.CoreCompileInputs.cache
+D:\DX\DxRepublic\CORE\bin\Debug\net5.0\CORE.deps.json
+D:\DX\DxRepublic\CORE\bin\Debug\net5.0\CORE.dll
+D:\DX\DxRepublic\CORE\bin\Debug\net5.0\CORE.pdb
+D:\DX\DxRepublic\CORE\obj\Debug\net5.0\CORE.dll
+D:\DX\DxRepublic\CORE\obj\Debug\net5.0\refint\CORE.dll
+D:\DX\DxRepublic\CORE\obj\Debug\net5.0\CORE.pdb
+D:\DX\DxRepublic\CORE\obj\Debug\net5.0\ref\CORE.dll
